@@ -1,3 +1,0 @@
-Documentos
-
-	- Local onde todos os documentos do projeto serao colocados (requisitos, relatorio, manual de uso, etc.);
