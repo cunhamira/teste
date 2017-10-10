@@ -1,0 +1,3 @@
+Prototipos
+
+	- Local onde todos os ficheiros relativos aos prototipos em si serao colocados;

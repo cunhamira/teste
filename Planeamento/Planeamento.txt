@@ -1,0 +1,3 @@
+Planeamento:
+
+	- Local onde todos os documentos relativos ao planeamento serao colocados;
